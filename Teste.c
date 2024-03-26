@@ -1,5 +1,8 @@
 #include <stdio.h>
-void main()
-{
-    printf("Hello word hhhhjjhoeqpjri");
+
+int main (){
+    printf("Hello word\n");
+    printf("MUITO FODA\n");
+    return 0;
+    
 }
